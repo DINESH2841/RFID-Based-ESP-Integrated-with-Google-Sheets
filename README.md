@@ -39,6 +39,9 @@ It can be used for:
 ![Hardware Setup](images/setup.jpg)
 
 **2. Google Sheets Logging:**
+
+🟢 **[Check Live Attendance Google Sheet Logs 📈](https://docs.google.com/spreadsheets/d/1WBdEyzrm73N2hZQ6n-Fnz7-HTxhtyv8tRygfwBeS1JM/edit?gid=0#gid=0)**
+
 ![Output](images/output.png)
 
 **3. Registered Users Database:**
