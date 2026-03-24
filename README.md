@@ -35,19 +35,23 @@ It can be used for:
 
 ## 📊 Proof & Output
 
-**1. Hardware Setup:**
+**1. 🌐 Live Web Dashboard Frontend:**
+Instead of just a basic spreadsheet, this project features a fully functional real-time web dashboard app connected directly to the ESP32 logs! This UI includes search filtering, CSV exports, and admin controls.
+👉 **[View the Live Web Dashboard Here 🚀](https://script.google.com/macros/s/AKfycbzwqYjyh5TOxTzNzU2E9Kxy8Zjon65Mqc-EBqAvsyzYAdeEpuC74XNDr3EUpf2nK-365A/exec)**
+
+**2. Hardware Setup:**
 ![Hardware Setup](images/setup.jpg)
 
-**2. Google Sheets Logging:**
+**3. Google Sheets Logging Backend:**
 
 🟢 **[Check Live Attendance Google Sheet Logs 📈](https://docs.google.com/spreadsheets/d/1WBdEyzrm73N2hZQ6n-Fnz7-HTxhtyv8tRygfwBeS1JM/edit?gid=0#gid=0)**
 
 ![Output](images/output.png)
 
-**3. Registered Users Database:**
+**4. Registered Users Database:**
 ![Registered Users](images/registered_users.png)
 
-**4. ESP32 Serial Monitor:**
+**5. ESP32 Serial Monitor:**
 ![Serial Monitor](images/serial_monitor.png)
 
 ## 🔐 Security Notes
@@ -55,14 +59,14 @@ It can be used for:
 - Uses a secure Google Apps Script webhook endpoint.
 
 ## 🔥 Features
-- **Real-time logging** with sub-second accuracy
+- **Functional Web Dashboard UI** with advanced filtering, CSV export, and Admin Controls
+- **Real-time logging** with sub-second accuracy directly from hardware
 - **Wireless communication** over local network
-- **Scalable system** (add multiple nodes to one sheet)
+- **Scalable system** supporting multiple IoT node arrays to a single master sheet
 
 ## 🚧 Future Improvements
-- Add web dashboard
-- Add authentication layer
-- Improve latency with MQTT
+- Implement dual-factor hardware authentication
+- Improve latency with an MQTT broker
 
 ## 📫 Contact
 Dinesh – GitHub: [https://github.com/DINESH2841](https://github.com/DINESH2841)
