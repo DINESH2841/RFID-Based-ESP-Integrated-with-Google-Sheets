@@ -41,7 +41,10 @@ It can be used for:
 **2. Google Sheets Logging:**
 ![Output](images/output.png)
 
-**3. ESP32 Serial Monitor:**
+**3. Registered Users Database:**
+![Registered Users](images/registered_users.png)
+
+**4. ESP32 Serial Monitor:**
 ![Serial Monitor](images/serial_monitor.png)
 
 ## 🔐 Security Notes
